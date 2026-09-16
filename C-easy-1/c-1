@@ -1,0 +1,8 @@
+1.GCC是一款著名的主要面向C和C++语言的开源编译器，目前据本人所知有2套方案安装GCC
+- **MSYS2**
+  `pacman -Syu`
+  该命令用于刷新你的数据库，安装或升级软件包
+  `pacman -S --need base-devel mingw-w64-x86_64-toolchain`
+  这条命令用于安装mingw
+![msys2](glimmer-exam-conmmit\icons\msys2_icon.png)
+- **wingw**
