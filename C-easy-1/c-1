@@ -4,5 +4,5 @@
   该命令用于刷新你的数据库，安装或升级软件包
   `pacman -S --need base-devel mingw-w64-x86_64-toolchain`
   这条命令用于安装mingw
-![msys2](https://github.com/TaTaloye/glimmer-exam-conmmit/tree/main/C-easy-1)
+![msys2](https://github.com/TaTaloye/glimmer-exam-conmmit/blob/main/icons/msys2_icon.png)
 - **wingw**
