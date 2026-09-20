@@ -4,6 +4,7 @@
 int main(){
     char name[20];
     int age;
+    int count = 0;
     char return_value;
     while (true){
     printf("年龄：");
@@ -21,6 +22,8 @@ int main(){
     else if (return_value == 'n' || return_value == 'N'){
         printf("你的年龄：%d\n",age);
         printf("你的姓名：%s\n",name);
+        count++;
+        printf("进行了%d次输入和打印操作\n",count);
         return 0;
     }
     else{
