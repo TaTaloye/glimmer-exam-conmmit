@@ -1,6 +1,5 @@
 # glimmer exam commmit
 这是群名为rayN的群友的答案提交仓库
-姓名；张東畅   学号；2624010253114
 ## 计算机系统
 - [c1](https://github.com/TaTaloye/glimmer-exam-conmmit/tree/main/计算机系统/C1)
 - [c2](https://github.com/TaTaloye/glimmer-exam-conmmit/tree/main/计算机系统/C2) 
