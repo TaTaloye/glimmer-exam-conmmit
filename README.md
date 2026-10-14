@@ -5,3 +5,4 @@
 - [c2](https://github.com/TaTaloye/glimmer-exam-conmmit/tree/main/计算机系统/C2) 
 ## 前端
 - [初识html](https://github.com/TaTaloye/glimmer-exam-conmmit/tree/main/前端/初识HTML)
+- [了解F12](https://github.com/TaTaloye/glimmer-exam-conmmit/tree/main/前端/了解F12)
